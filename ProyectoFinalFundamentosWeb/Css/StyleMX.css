@@ -1,0 +1,40 @@
+body {
+    background-color: #3c3c3c;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about {
+    background-image: url('../Img/FondoAbout/im1\ \(2\).png'); 
+    background-position: center;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.about h2 {
+    color: white;
+}
+
+.about p {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.about h1 {
+    color: white;
+    font-size: 36px;
+}
+
+.about h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
